@@ -1799,6 +1799,11 @@ body {
 .cid-ra0rzFycVr H3 {
   color: #7f1933;
 }
+.cid-ra0RBhiUkU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #7f1933;
+}
 .cid-ra0BdTLNZI {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2011,7 +2016,7 @@ body {
   background-color: #7f1933;
 }
 .cid-r9xYu7O1gc .mbr-section-subtitle {
-  color: #767676;
+  color: #149dcc;
 }
 .cid-r9xYu7O1gc .formoid {
   margin: auto;
@@ -2174,4 +2179,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-r9xYylIKxt P {
+  color: #55b4d4;
 }
