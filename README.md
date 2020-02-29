@@ -1,2 +1,3 @@
 # chaa
-GitHub Pages
+GitHub Pages for Canadian Havyaka Association of Americas
+
