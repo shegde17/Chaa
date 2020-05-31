@@ -1977,6 +1977,19 @@ section.lazy-placeholder:after {
 .cid-rYxyT66m5N .mbr-section-btn {
   text-align: center;
 }
+.cid-s0ADA9WqVt {
+  background: #7f1933;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.cid-s0ADA9WqVt .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s0ADA9WqVt .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rYxyTa8qp9 {
   padding-top: 15px;
   padding-bottom: 0px;
