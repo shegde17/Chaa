@@ -1110,6 +1110,20 @@ section.lazy-placeholder:after {
 .cid-ra0zAycU44 .mbr-section-btn {
   text-align: center;
 }
+.cid-s0AHN0Q1vK {
+  background: #7f1933;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #7f1933, #b1a374);
+}
+.cid-s0AHN0Q1vK .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s0AHN0Q1vK .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rlEUKIUHPZ {
   padding-top: 0px;
   padding-bottom: 0px;
